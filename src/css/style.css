@@ -4,7 +4,6 @@ body {
 }
 
 main::after {
-  content: "＼（〇_ｏ）／";
   position: fixed;
   top: 0;
   left: 0;
