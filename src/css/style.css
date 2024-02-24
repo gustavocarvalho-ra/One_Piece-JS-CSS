@@ -4,6 +4,7 @@ body {
 }
 
 main::after {
+  content: "";
   position: fixed;
   top: 0;
   left: 0;
